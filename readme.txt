@@ -1,0 +1,13 @@
+
+ABOUT:
+          A Simple keylogger using python that sends the file that contains the keystrokes to the attacker via email.
+
+REQUIREMENTS:
+            #works only on linux
+            #need to install python3
+            #need to install pyxhook module
+                   ...to install pyxhook--->#pip3 install pyxhook
+
+HOW TO USE:
+       #python keylogger.py <your email address> <your password>
+       NOTE:email address and password are required to login into your email account.
