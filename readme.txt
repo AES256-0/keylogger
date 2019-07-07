@@ -9,5 +9,6 @@ REQUIREMENTS:
                    ...to install pyxhook--->#pip3 install pyxhook
 
 HOW TO USE:
-       #python keylogger.py <your email address> <your password>
+       #python keylogr.py -h --->to see the help
+       #python keylogr.py --email xyz --password xyz
        NOTE:email address and password are required to login into your email account.
